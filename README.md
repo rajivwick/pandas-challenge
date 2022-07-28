@@ -9,4 +9,4 @@ We can see in our scored by total students table (sizeGroup) as we go down the r
 
 2. Schools that had a budget per student of $585-$630 out performed all the other schools with budgets greater or smaller. This looks like a significant category to explore as it may indicate a 'sweet spot' for budgeting on future school spending. 
 
-3.Even though we sort out to search for two trends, a third is visible. Independent schools out performed government schools in Maths, Reading and the total average of students passing Maths, Reading and overall (passing both Maths and Reading)
+3. Even though we sort out to search for two trends, a third is visible. Independent schools out performed government schools in Maths, Reading and the total average of students passing Maths, Reading and overall (passing both Maths and Reading)
